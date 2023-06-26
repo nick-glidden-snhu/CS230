@@ -5,7 +5,7 @@ The Gaming Room was an electronic gaming service, that had a fun game offered vi
 
 <hr>
 
-### What did you do particularly well in developing this documentation?
+### What did you do particularly well in developing this documentation???
 While I believe I met all the requirements, I particularly excelled at optimzing the infrastrucre relebvbant to the gaming room server. The entire game relies on the server, and if it goes down, no one can play. An event like this can break years of user trust, and come with serious business consequences. This is why I spent extra time wokring on reliabiliaty, redundancy, and performance. From the database, to the hub and spoke implementation, The Game Room can expect a top-notch deliverable. 
 
 <hr>
